@@ -27,7 +27,6 @@ print('\nUse The Command "pythonw" In Your Terminal To Run This Program In The B
 
 print("\n--------------------")
 
-
 def open_url():
     webbrowser.open_new_tab(link)
 
